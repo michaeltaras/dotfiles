@@ -2,3 +2,5 @@
 	co = checkout
 	ci = commit
 	st = status
+	pushfwl = push --force-with-lease
+
